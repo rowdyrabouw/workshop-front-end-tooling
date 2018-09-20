@@ -1,0 +1,7 @@
+**/*/node_modules
+bundle.js
+06_create-react-app/test
+07_parcel/dist
+
+.cache
+.vscode

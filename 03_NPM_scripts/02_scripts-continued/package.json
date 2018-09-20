@@ -1,0 +1,25 @@
+{
+  "name": "04_scripts-continued",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "echo prestart",
+    "poststart": "echo poststart"
+  },
+  "iets": {
+    "in": {
+      "deze": {
+        "package": {
+          "json":"blaat"
+        }
+      }
+    }
+  },
+  "config": {
+    "port": 8888
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
