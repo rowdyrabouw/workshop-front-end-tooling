@@ -1,7 +1,7 @@
-import sample from 'lodash/sample';
+import sample from "lodash/sample";
 
-const options = ['welk', 'woord', 'zou', 'gekozen', 'worden', '??'];
-const div = document.querySelector('div');
+const options = ["which", "word", "will", "be", "chosen", "??"];
+const div = document.querySelector("div");
 
 if (div) {
   div.innerHTML = sample(options);
